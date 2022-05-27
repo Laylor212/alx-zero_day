@@ -1,4 +1,5 @@
 update_script
+update_script
 echo The school is open! master
+The school is open!master
 #!/bin/bash
-The school is open
