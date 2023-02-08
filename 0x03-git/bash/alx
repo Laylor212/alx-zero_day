@@ -1,6 +1,4 @@
- update_script
-echo ALX School
-master
-#!/bin/bash
-ALX School is so cool!
 update_script
+master
+echo ALX School
+ALX School is so cool!
